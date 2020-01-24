@@ -66,3 +66,26 @@ footer
   font-family: 'Zhi Mang Xing', cursive;
   color:white;
 }
+
+footer i, footer h2
+{
+  display: inline-block;
+
+}
+footer i
+{
+  fill: #ffffff;
+  width: 2rem;
+  color: white;
+  text-align: right;
+}
+
+.contacto
+{
+  margin: 250px;
+}
+
+.contacto p
+{
+  padding-top: 25px;
+}
