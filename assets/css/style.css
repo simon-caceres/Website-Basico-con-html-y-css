@@ -15,17 +15,32 @@ header
   bottom: 70px;
   text-align: center;
   letter-spacing: 1.5px;
-  color:grey;
+  color: white;
   text-shadow: 50px 250px 80px grey;
   text-emphasis-position: below;
   width: 90%;
   font-family: 'Bangers', cursive;
 }
+ header div
+{
+  padding-top: 600px;
+  color: white;
+  font-size: 8000px;
+}
 .ultimos-trabajos
 {
   background: black;
+  color: grey;
   text-align: center;
   font-family: 'Bangers', cursive;
+  font-weight: 2000;
+}
+.contacto
+{
+  text-align: center;
+  color: grey;
+  font-family: 'Bangers', cursive;
+  font-weight: 2000;
 }
 
 footer
@@ -45,4 +60,9 @@ footer
   text-align: center;
   padding: 15px;
   font-family: 'Bangers', cursive;
+}
+.logo
+{
+  font-family: 'Zhi Mang Xing', cursive;
+  color:white;
 }
