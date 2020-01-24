@@ -2,10 +2,30 @@ body
 {
   background: #FFFFFF;
 }
-
+header
+{
+  background-image: url('fondo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  top: 251px;
+  left: 491px;
+  width: 1129px;
+  height: 791px;
+  bottom: 70px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  color:grey;
+  text-shadow: 50px 250px 80px grey;
+  text-emphasis-position: below;
+  width: 90%;
+  font-family: 'Bangers', cursive;
+}
 .ultimos-trabajos
 {
-  background: #660066;
+  background: black;
+  text-align: center;
+  font-family: 'Bangers', cursive;
 }
 
 footer
@@ -16,4 +36,13 @@ footer
 .empleos
 {
   display: inline-block;
+  padding: 25px;
+  text-align: center;
+}
+
+.exp
+{
+  text-align: center;
+  padding: 15px;
+  font-family: 'Bangers', cursive;
 }
